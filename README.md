@@ -15,12 +15,12 @@
 
 <p align="center">
   <a href="https://github.com/sindhu6547">
-    <img src="https://komarev.com/ghpvc/?username=sindhu6547&label=Profile%20Views&color=0e75b6&style=flat" />
+    <img src="https://komarev.com/ghpvc/?username=sindhuja-80&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
   <a href="https://github.com/sindhu6547?tab=followers">
-    <img src="https://img.shields.io/github/followers/sindhu6547?label=Followers&style=flat" />
+    <img src="https://img.shields.io/github/followers/sindhuja-80?label=Followers&style=flat" />
   </a>
-  <a href="https://github.com/sindhu6547?tab=repositories">
+  <a href="https://github.com/sindhuja-80?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-View-blue?style=flat" />
   </a>
 </p>
@@ -90,22 +90,22 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sindhu6547&theme=blue-green&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sindhuja-80&theme=blue-green&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sindhu6547&theme=blue_green" height="150"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sindhu6547&theme=blue_green" height="150"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sindhuja-80&theme=blue_green" height="150"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sindhuja-80&theme=blue_green" height="150"/>
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sindhu6547&theme=blue_green&utcOffset=5.5" height="150"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sindhuja-80&theme=blue_green&utcOffset=5.5" height="150"/>
 </p>
 
 <br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sindhu6547&theme=radical&no-frame=true&margin-w=15&cache_seconds=86400)
+![](https://github-profile-trophy.vercel.app/?username=sindhuja-80&theme=radical&no-frame=true&margin-w=15&cache_seconds=86400)
 
 <br/>
 
